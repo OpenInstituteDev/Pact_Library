@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */
+fieldset{
+	height:495px;
+}
+#columns{
+height:20px;
+width:200px;
+}
+body {
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+body,td,th {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #000;
+}
+.title_view{
+	font-size:16px;
+}
+.tableborder{
+	margin-top:10px;}
+
+.version {
+	color: #FFC;
+	font-size: 11px;
+}
+.hi {
+	color:#5151FF;
+	font-size: 11px; 
+	text-align:left; 
+	vertical-align:middle;
+}
+.welcome {
+	color: #008000;
+	font-size: 26px;
+	font-weight: bold;
+}
+.com_name {
+	color: #008000;
+	font-size: 30px;
+	font-weight: bold;
+}
+.com_line {
+	color: #008000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.com_branch {
+	color: #0000FF;
+	font-size: 18px;
+	font-weight: bold;
+}
+.cur_db {
+	color:#0000FF;
+	font-size: 18px;
+	font-weight: bold;
+}
+.com_add {
+	color:#000;
+	font-size: 12px;
+}
+.cur_date {
+	color:#0000FF;
+	font-size: 14px; 
+	font-weight:bold;
+}
+.cur_date_weekend {
+	color:#F00;
+	font-size: 14px; 
+	font-weight:bold;
+}
+.home_hi {
+	color: #0000FF;
+	font-size: 20px;
+	font-weight: bold;
+}
+.home {
+	color:#666;
+	font-size: 11px;
+	font-weight: none;
+}
+.home2 {
+	color:#000;
+	font-size: 14px;
+	font-weight: bold;
+}
+.header {
+	color: #FFC;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:center; 
+	vertical-align:middle;
+}
+.header1 {
+	color:#C00;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:left; 
+	vertical-align:middle;
+}
+.footer {
+	color:#999;
+	font-size: 11px;
+}
+.note_r {
+	color: #F00;
+	font-size: 11px;
+}
+.note_b {
+	color: #00F;
+	font-size: 11px;
+}
+.msg {
+	color: #0000FF;
+	font-size: 11px;
+}
+.msg_true {
+	color: #008000;
+	font-size: 11px;
+}
+.msg_false {
+	color: #FF0000;
+	font-size: 11px;
+}
+.tool_menu{
+	width:auto;
+	cursor:pointer; 
+	border:none;
+	background-color:transparent;
+}
+.logout {	
+ 
+		font-weight:none;
+		vertical-align:top;
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size:11px; 		
+		height:20px; 
+		width:40px;
+		display:inline-block;
+		color:#EC0000; 
+		cursor:pointer; 
+		background-color:transparent;
+		border-top:0px #9999FF solid;
+		border-bottom:0px #9999FF solid;
+		border-left:0px #9999FF solid;
+		border-right:0px #9999FF solid;
+		padding-left:10px; padding-bottom:6px;
+		padding-right:10px; padding-top:2px;
+	}
+.logout_over {
+		text-decoration: none;
+		vertical-align:top;
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size:11px; 
+		height:20px; 
+		width:40px;
+		display:inline-block;
+		color:#00F; 
+		cursor:pointer; 
+		background-color:transparent;
+		border-top:0px #6699FF solid;
+		border-bottom:0px #6699FF solid;
+		border-left:0px #6699FF solid;
+		border-right:0px #6699FF solid;
+		padding-left:10px; padding-bottom:6px;
+		padding-right:10px; padding-top:2px;
+	}
+
+.arrow_rec{
+	cursor:pointer; 
+	font-size: 10px;
+	color:#009;
+}
+.class_menu{
+	
+	cursor:pointer; 
+	color: #000; /*this class duplicate with calendar*/
+	font-size: 10px;
+	vertical-align:middle;
+	border:3px transparent solid;
+	background-image:url(../../images/toolbar/bg_head1.png);
+	border-top:1px #CCC solid;
+	border-bottom:1px #CCC solid;
+	border-left:1px #CCC solid;
+	border-right:1px #CCC solid;
+	padding-top:3px;
+	padding-bottom:2px;
+	padding-left:6px;
+	padding-right:6px;
+	border-radius:3px;
+	margin-right:10px;
+	margin-top:0px;
+}
+.class_menu_over{
+	
+	cursor:pointer; 
+	color: #00F;
+	font-size: 10px;
+	vertical-align:middle;
+	background-image:url(../../images/toolbar/grid3-hrow.gif);	
+	border-top:1px #CCC solid;
+	border-bottom:1px #CCC solid;
+	border-left:1px #CCC solid;
+	border-right:1px #CCC solid;
+	padding-top:3px;
+	padding-bottom:2px;	
+	padding-left:6px;
+	padding-right:6px;
+	margin-right:10px;
+	border-radius:3px;
+	margin-top:0px;
+}
+.class_calendar{
+	
+	cursor:pointer; 
+	color: #000; /*this class duplicate with calendar*/
+	font-size: 10px;
+	vertical-align:middle;
+	border:3px transparent solid;
+	background-image:url(../../images/toolbar/grid3-hrow.gif);	
+	border-top:1px #CCC solid;
+	border-bottom:1px #CCC solid;
+	border-left:1px #CCC solid;
+	border-right:1px #CCC solid;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:4px;
+	padding-right:3px;
+	border-radius:3px;
+}
+.class_calendar_over{
+	
+	cursor:pointer; 
+	color: #00F;
+	font-size: 10px;
+	vertical-align:middle;
+	background-image:url(../../images/toolbar/bg_head1.png);
+	border-top:1px #CCC solid;
+	border-bottom:1px #CCC solid;
+	border-left:1px #CCC solid;
+	border-right:1px #CCC solid;
+	padding-top:2px;
+	padding-bottom:2px;	
+	padding-left:4px;
+	padding-right:3px;
+	border-radius:3px;
+}

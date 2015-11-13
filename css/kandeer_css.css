@@ -1,0 +1,372 @@
+<style type="text/css">
+
+.k_table_border {
+	 border-collapse:collapse; 
+	 border-color:#006;
+}
+A:link{
+	text-decoration: none;
+	}
+A:active{
+	text-decoration: none;
+	}
+A:visited{
+	text-decoration: none;
+	}
+A:hover{
+	text-decoration: none; 
+	background-color:#690;
+	}
+
+.Welcome_kh {
+font-family:"Khmer OS Muol";
+color:#008000;
+font-weight:normal;
+font-size:24px;
+}
+
+.KINGcambodia_kh {
+font-family:"Khmer OS Muol";
+color:#000;
+font-weight:normal;
+font-size:24px;
+}
+.KINGcambodia_eng {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:27px;
+}
+.MOI_kh {
+font-family:"Khmer OS Muol";
+color:#000;
+font-weight:normal;
+font-size:24px;
+}
+.MOI_eng {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:26px;
+}
+.MOI_General_kh {
+font-family:"Khmer OS Muol";
+color:#000;
+font-weight:normal;
+font-size:20px;
+}
+.Word_request_kh {
+font-family:"Khmer OS Muol";
+color:#000;
+font-weight:normal;
+font-size:30px;
+}
+.Word_request_eng {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:30px;
+}
+.Owner_General_kh {
+font-family:"Khmer OS Muol";
+color:#000;
+font-weight:normal;
+font-size:20px;
+}
+.Owner_General_eng {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:19px;
+}
+.General_kh {
+font-family:"Khmer OS System";
+color:#000;
+font-weight:normal;
+font-size:16px;
+}
+.General_eng {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:16px;
+}
+.General_kh_small {
+font-family:"Khmer OS System";
+color:#000;
+font-weight:normal;
+font-size:12px;
+}
+.General_eng_small {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:15px;
+}
+
+.General_kh_certificate {
+font-family:"Khmer OS System";
+color:#000;
+font-weight:normal;
+font-size:20px;
+}
+.General_eng_certificate {
+font-family:"Times New Roman", Times, serif;
+color:#000;
+font-weight:normal;
+font-size:19px;
+}
+
+
+.tree_link_14 {
+font-family:"Times New Roman", Times, serif;
+color: #003300;
+font-weight:normal;
+font-size:14px;
+}
+.menu_title {
+color: #EEEEEE;
+font-weight:bold;
+font-size:13px;
+}
+
+.menu_title_10 {
+color: #EEEEEE;
+font-weight:bold;
+font-size:10px;
+}
+.tree_link_12 {
+font-family:"Times New Roman", Times, serif;
+color: #003300;
+font-weight:bold;
+font-size:12px;
+}
+
+.menu_title_35 {
+font-family:"Times New Roman", Times, serif;
+color: #EEEEEE;
+font-weight:bold;
+font-size:35px;
+}
+
+.k_title_14 {
+font-family:"Times New Roman", Times, serif;
+color: #0000FF;
+font-weight:bold;
+font-size:14px;
+}
+.k_title_18 {
+font-family:"Times New Roman", Times, serif;
+color: #008000;
+font-weight:bold;
+font-size:18px;
+}
+
+.k_title_40_whilte {
+font-family:"Times New Roman", Times, serif;
+color: #FFFFFF;
+font-weight:bold;
+font-size:40px;
+}
+.k_title_30_blue {
+color: #0000FF;
+font-weight:bold;
+font-size:30px;
+}
+.k_title_16_white {
+color: #FFFFFF;
+font-weight:bold;
+font-size:16px;
+}
+
+.k_title_18_white {
+color: #FFFFFF;
+font-weight:bold;
+font-size:18px;
+}
+.k_title_12_white {
+color: #FFFFFF;
+font-weight:inherit;
+font-size:12px;
+}
+.k_title_14_yel {
+color: #FC9;
+font-weight:inherit;
+font-size:14px;
+}
+.k_title_12 {
+color: #0000FF;
+font-weight:bold;
+font-size:14px;
+}
+
+.k_menu_12{
+color: #0000FF;
+font-weight:bold;
+font-size:12px;
+}
+.k_menu_14{
+font-family:"Times New Roman", Times, serif;
+color: #0000FF;
+font-weight:bold;
+font-size:14px;
+}
+.k_menu_14_black{
+color: #000000;
+font-weight:bold;
+font-size:14px;
+}
+.k_kh_14_big{
+font-family:"Times New Roman", Times, serif;
+color: #000000;
+font-weight:bold;
+font-size:14px;
+}
+.title_note{
+font-family:"Times New Roman", Times, serif;
+color: #F6F6F6;
+font-weight:bold;
+font-size:12px;
+}
+.k_kh_14_big_01{
+font-family:"Times New Roman", Times, serif;
+color: #008000;
+font-weight:bold;
+font-size:14px;
+}
+.k_space_white {
+color: #FFF;
+font-weight:Normal;
+font-size:2px;
+}
+.k_details_14_black {
+color: #000066;
+font-weight:normal;
+font-size:14px;
+}
+.k_details_14 {
+color: #000066;
+font-weight:normal;
+font-size:16px;
+}
+.k_details_14_blue {
+color:#00C;
+font-weight:normal;
+font-size:14px;
+}
+.k_details_12_blue {
+color:#00C;
+font-weight:normal;
+font-size:12px;
+}
+.k_details_13_red {
+color:#F00;
+font-weight:normal;
+font-size:13px;
+}
+.k_footer {
+color:#063;
+font-weight:Normal;
+font-size:12px;
+}
+.txt_insert{
+	width:380px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#EEE;
+	height:30px;
+}
+.txt_insert_print{
+	border-width:0px;
+	border-collapse:collapse;
+	height:30px;
+}
+.txt_insert_note{
+	width:500px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#EEE;
+	height:30px;
+}
+.txt_area_insert{
+	width:380px;
+	border-width:1px;
+	border-collapse:collapse;
+	height:50px;
+}
+.txt_area_insert_note{
+	width:500px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#EEE;
+	height:200px;
+}
+.cbo_insert_note{
+	width:504px;
+	height:34px;
+}
+.cbo_insert{
+	width:384px;
+	height:34px;
+}
+.cbo_insert_ca{
+	width:100%;
+	height:34px;
+	border-width:1px;
+	border-color:#EEE;
+}
+.cbo_insert_fac{
+	width:100%;
+	height:34px;
+	border-width:0px;
+	border-color:transparent;
+	background-color:transparent;
+}
+
+.txt_user_pwd{
+	width:250px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#009;
+	height:25px;
+}
+.hiddent {
+		overflow-x: hidden;	 
+}
+.txt_insert_peo{
+	width:200px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#EEE;
+	height:30px;
+}
+.txtarea_insert_peo{
+	width:200px;
+	border-width:1px;
+	border-collapse:collapse;
+	border-color:#EEE;
+	height:50px;
+}
+.cbo_insert_peo{
+	width:204px;
+	height:30px;
+}
+.menu_nib_kh {
+font-family:"Khmer OS Muol";
+color:#008000;
+font-weight:normal;
+font-size:14px;
+}
+.new_nib_kh {
+font-family:"Khmer OS Muol";
+color:#000000;
+font-weight:normal;
+font-size:18px;
+}
+.nib_register {
+font-family:"Khmer OS Muol";
+color:#FFFFFF;
+font-weight:normal;
+font-size:14px;
+}
+</style>
