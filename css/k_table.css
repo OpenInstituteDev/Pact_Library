@@ -3,18 +3,18 @@
 
 
 * {margin:0; padding:-1; outline:0}
-body {font:11px Verdana,Arial; }
+body {font:13px Verdana,Arial; }
 #tablewrapper {width:100%; margin:0 auto}
-#tableheader {height:30px}
-.search {float:left; padding:6px; border:1px solid #c6d5e1; background:#fff}
+#tableheader {height:10px}
+.search {border:1px solid #c6d5e1; background:#fff;  margin-left: 15px; padding: 5px;}
 #tableheader select {float:left; font-size:12px; width:125px; padding:2px 4px 4px}
 #tableheader input {float:left; font-size:12px; width:225px; padding:2px 4px 4px; margin-left:4px}
-.details {float:right; padding-top:49px}
+.details {float:right; padding-top:0; margin-right: 12px;}
 .details div {float:left; margin-left:15px; font-size:12px}
 .tinytable {width:100%; border-left:1px solid #c6d5e1; border-top:1px solid #c6d5e1; border-bottom:none}
 .tinytable th {background:url(../../imgs/header-bg.gif); text-align:center; color:#cfdce7; border:1px solid #fff; border-right:none; }
-.tinytable th h3 {font-size:11px; padding:6px 8px 8px}
-.tinytable td {height:20px; border-bottom:1px solid #c6d5e1; border-right:1px solid #c6d5e1}
+.tinytable th h3 {font-size:13px; padding:1px 2px 2px}
+.tinytable td {height:10px; border-bottom:1px solid #c6d5e1; border-right:1px solid #c6d5e1}
 .tinytable .head h3 {background:url(../../imgs/sort.gif) 7px center no-repeat; cursor:pointer; padding-left:18px}
 .tinytable .desc, .sortable .asc {background:url(../../imgs/header-selected-bg.gif))}
 .tinytable .desc h3 {background:url(../../imgs/desc.gif) 7px center no-repeat; cursor:pointer; padding-left:18px}
@@ -26,12 +26,19 @@ body {font:11px Verdana,Arial; }
 .tinytable td.oddselected {background:#dce6ee}
 .tinytable tfoot {background:#fff; font-weight:bold}
 .tinytable tfoot td {padding:6px 8px 8px}
+.bottom-pages{
+    padding-top:10px; padding-left:15px; padding-right:15px;
+}
+.fieldset-table{
+    background-color:#FFFFFF;border-style:none; border-radius:5px; -ms-border-radius:5px;-moz-border-radius:5px; -webkit-border-radius:5px; border-collapse:collapse; padding-top:15px;
+    margin-bottom:9px;  box-shadow:#F93;
+}
 #tablefooter {height:15px; margin-top:20px}
 #tablenav {float:left}
 #tablenav img {cursor:pointer}
 #tablenav div {float:left; margin-right:15px; }
 #tablelocation {float:right; font-size:10px}
-#tablelocation select {margin-right:3px;font-size:10px;}
+#tablelocation select {margin-right:3px;font-size:13px;}
 #tablelocation div {float:left;  }
 .page {margin-top:2px; font-style:italic}
 #selectedrow td {background:#c6d5e1;}
