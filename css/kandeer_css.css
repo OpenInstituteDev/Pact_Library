@@ -1,10 +1,10 @@
 <style type="text/css">
 
 .k_table_border {
-	 border-collapse:collapse; 
+	 border-collapse:collapse;
 	 border-color:#006;
 }
-A:link{
+/*A:link{
 	text-decoration: none;
 	}
 A:active{
@@ -14,9 +14,9 @@ A:visited{
 	text-decoration: none;
 	}
 A:hover{
-	text-decoration: none; 
+	text-decoration: none;
 	background-color:#690;
-	}
+	}*/
 
 .Welcome_kh {
 font-family:"Khmer OS Muol";
@@ -331,7 +331,7 @@ font-size:12px;
 	height:25px;
 }
 .hiddent {
-		overflow-x: hidden;	 
+		overflow-x: hidden;
 }
 .txt_insert_peo{
 	width:200px;
