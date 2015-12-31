@@ -3,7 +3,7 @@
 
 
 * {margin:0; padding:-1; outline:0}
-body {font:13px Verdana,Arial; }
+/* body {font:13px Verdana,Arial; } */
 #tablewrapper {width:100%; margin:0 auto}
 #tableheader {height:10px}
 .search {border:1px solid #c6d5e1; background:#fff;  margin-left: 15px; padding: 5px;}
